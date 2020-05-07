@@ -1,0 +1,31 @@
+body{
+
+    text-align: center;
+    background-color: gray;
+}
+h1{
+background-color:ghostwhite;
+font-family: 'Righteous', cursive;;
+font-size: 3.5em;
+text-shadow: 1px 1px 2px red;
+text-align: center;
+padding: 10px;
+
+}
+figcaption{
+    font-family: font-family: 'Lobster', cursive;s;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+figure{
+    display:inline-block;
+    
+    border-radius: 5px;
+    padding: 4em;
+    cursor: pointer;
+}
+figure:hover{
+    background-color: gainsboro;
+    color: red;
+}
